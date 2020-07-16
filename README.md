@@ -29,6 +29,7 @@ There are other awesome-culture lists but I found mine was quite different. Sele
 - [So you just learned](https://github.com/sublimemarch/so-you-just-learned)
 - [Project Include](http://projectinclude.org)
 - [Transgender Inclusion](https://www.transgenderinclusion.com)
+- [Key concepts and advice - Twitter thread from @jenistyping](https://twitter.com/jenistyping/status/1270766520600104960?s=21)  
 
 # Design Roles
 - [Australia's design capability gap](https://www.linkedin.com/pulse/australias-design-capability-gap-how-hurts-avoid-hiring-spirovski/)
