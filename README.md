@@ -12,6 +12,7 @@ There are other awesome-culture lists but I found mine was quite different. Sele
 - [Technical Culture](https://github.com/summerscope/awesome-culture/blob/master/README.md#technical-culture)
 - [Team Culture](https://github.com/summerscope/awesome-culture/blob/master/README.md#team-culture)
 - [Manager Culture](https://github.com/summerscope/awesome-culture/blob/master/README.md#manager-culture)
+- [Selecting Partners](https://github.com/summerscope/awesome-culture/blob/master/README.md#selecting-partners)
 
 # Writing your JD
 - [Your tech job posting is broken: here's how to fix it](https://medium.com/@fox/your-tech-job-posting-is-broken-heres-how-to-fix-it-6db06b9769cb)
@@ -40,7 +41,7 @@ There are other awesome-culture lists but I found mine was quite different. Sele
 # Design Culture
 - [The Designer's Growth Model](https://medium.com/design-leadership-notebook/the-designers-growth-model-8240dafb7137)
 - [Using the 30–60–90 Framework for Design Critique](https://medium.com/swlh/using-the-30-60-90-framework-for-design-critique-960b68026b6f)
-
+  
 # Technical Culture
 - [Unlearning toxic behaviors in a code review culture](http://web.archive.org/web/20190530181722/https://www.freecodecamp.org/news/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c/)
 - [An engineer's bill of rights and responsibilities](https://charity.wtf/2018/03/30/an-engineers-bill-of-rights-and-responsibilities/)
@@ -53,3 +54,6 @@ There are other awesome-culture lists but I found mine was quite different. Sele
 
 # Manager Culture
 - [Manager's bill of responsibilities and rights](https://charity.wtf/2019/10/30/a-managers-bill-of-responsibilities-and-rights/)
+
+# Selecting Partners  
+- [The Gut Check - Work better and happier by formalizing your feelings](https://medium.com/greater-good-studio/the-gut-check-work-better-and-happier-by-formalizing-your-feelings-fe76a9854c2e)
